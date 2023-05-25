@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<InstalLog Project="DarkerNightsNGEEnhanced" Build_date="25/04/2023 00:58:15">
+  <Files>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\mods\modDarkerNightsNGEEnhanced">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\mods\modDarkerNightsNGEEnhanced\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\mods\modDarkerNightsNGEEnhanced\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\mods\modDarkerNightsNGEEnhanced\content\metadata.store</file>
+      </Directory>
+    </Directory>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\metadata.store</file>
+      </Directory>
+    </Directory>
+  </Files>
+</InstalLog>
