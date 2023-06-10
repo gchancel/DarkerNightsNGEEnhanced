@@ -1,53 +1,53 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<InstalLog Project="DarkerNightsNGEEnhanced" Build_date="28/05/2023 00:47:32">
+<InstalLog Project="DarkerNightsNGEEnhanced" Build_date="10/06/2023 18:08:32">
   <Files>
-    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced">
-      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content">
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\blob0.bundle</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\metadata.store</file>
-        <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts">
-          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game">
-            <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\environmentManager.ws</file>
-            <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\r4Game.ws</file>
-            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui">
-              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui\main_menu">
-                <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui\main_menu\ingameMenu.ws</file>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\metadata.store</file>
+        <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts">
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\environmentManager.ws</file>
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\r4Game.ws</file>
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui">
+              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui\main_menu">
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\gui\main_menu\ingameMenu.ws</file>
               </Directory>
             </Directory>
-            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\player">
-              <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\r4Player.ws</file>
-              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\states">
-                <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\states\unconscious.ws</file>
+            <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\player">
+              <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\r4Player.ws</file>
+              <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\states">
+                <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\game\player\states\unconscious.ws</file>
               </Directory>
             </Directory>
           </Directory>
-          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\local">
-            <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\Mods\modDarkerNightsNGEEnhanced\content\scripts\local\world_env_modif.ws</file>
+          <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\local">
+            <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\mods\modDarkerNightsNGEEnhanced\content\scripts\local\world_env_modif.ws</file>
           </Directory>
         </Directory>
       </Directory>
     </Directory>
-    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne">
-      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content">
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\ar.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\blob0.bundle</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\br.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\cn.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\cz.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\de.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\en.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\es.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\esMX.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\fr.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\hu.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\it.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\jp.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\kr.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\metadata.store</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\pl.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\ru.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\tr.w3strings</file>
-        <file>C:\GOG Games\The Witcher 3 Wild Hunt Complete Edition\dlc\dlcdne\content\zh.w3strings</file>
+    <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne">
+      <Directory Path="C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content">
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\ar.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\blob0.bundle</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\br.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\cn.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\cz.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\de.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\en.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\es.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\esMX.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\fr.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\hu.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\it.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\jp.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\kr.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\metadata.store</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\pl.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\ru.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\tr.w3strings</file>
+        <file>C:\GOG Games\The Witcher 3 Wild Hunt GOTY\dlc\dlcdne\content\zh.w3strings</file>
       </Directory>
     </Directory>
   </Files>
